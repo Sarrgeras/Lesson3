@@ -1,7 +1,7 @@
 package lesson;
 
-public class Task_2 {
-    public Task_2(){
+public class Task2 {
+    public Task2(){
 
     }
     public void task2(){

@@ -2,13 +2,13 @@ package lesson;
 
 import java.util.Scanner;
 
-public class Task_3 {
-    public Task_3(){
+public class Task3 {
+    public Task3(){
 
     }
     public void task3(){
         System.out.println("Введите сумму денег.");
-        int sum= 0;
+        int sum = 0;
         Scanner in = new Scanner(System.in);
         sum = in.nextInt();
         if (sum == 1 || sum % 10 == 1){

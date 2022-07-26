@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class Main {
 
     public static void menu(){
-        Task_1 task_1 = new Task_1();
-        Task_2 task_2 = new Task_2();
-        Task_3 task_3 = new Task_3();
-        Task_4 task_4 = new Task_4();
+        Task1 task1 = new Task1();
+        Task2 task2 = new Task2();
+        Task3 task3 = new Task3();
+        Task4 task4 = new Task4();
         System.out.println("***Меню***");
         System.out.println("Выберите пункт: ");
         System.out.println("1. Задание 1.");
@@ -21,16 +21,16 @@ public class Main {
         ch = in.nextInt();
         switch (ch){
             case 1:
-                task_1.task1();
+                task1.task1();
                 break;
             case 2:
-                task_2.task2();
+                task2.task2();
                 break;
             case 3:
-                task_3.task3();
+                task3.task3();
                 break;
             case 4:
-                task_4.task4();
+                task4.task4();
                 break;
             case 0:
                 break;

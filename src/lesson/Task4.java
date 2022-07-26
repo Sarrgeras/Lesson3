@@ -2,8 +2,8 @@ package lesson;
 
 import java.util.Scanner;
 
-public class Task_4 {
-    public Task_4(){
+public class Task4 {
+    public Task4(){
 
     }
     public void task4(){

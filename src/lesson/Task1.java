@@ -1,9 +1,7 @@
 package lesson;
 
-import java.lang.ref.SoftReference;
-
-public class Task_1 {
-    public Task_1(){
+public class Task1 {
+    public Task1(){
 
     }
     public void task1(){
